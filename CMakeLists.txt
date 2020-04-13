@@ -3,4 +3,5 @@ project(coniferious)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(coniferious src/main.cpp src/Display.cpp src/Display.h)
+include_directories("vendor")
 target_link_libraries(coniferious SDL2)

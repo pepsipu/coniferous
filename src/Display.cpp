@@ -1,7 +1,3 @@
-//
-// Created by pepsipu on 4/11/20.
-//
-
 #include <SDL2/SDL.h>
 #include <iostream>
 
